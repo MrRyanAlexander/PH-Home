@@ -1,5 +1,2 @@
-
-# RYAN ALEXANDER
-
-This is my person website where I host projects and share information
+You will find a working version of the Parse.com backend at http://pminus.byethost7.com/
 
